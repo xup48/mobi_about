@@ -1,0 +1,11 @@
+source 'git@github.com:mobiwallet/mobi-ios-specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '9.0'
+
+target 'mobi_about' do
+    
+    # Mobi PodSpecs
+    pod 'rn_base_module', '~> 0.1.0'
+
+end

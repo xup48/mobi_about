@@ -1,0 +1,16 @@
+PODS:
+  - rn_base_module (0.1.0)
+
+DEPENDENCIES:
+  - rn_base_module (~> 0.1.0)
+
+SPEC REPOS:
+  "git@github.com:mobiwallet/mobi-ios-specs.git":
+    - rn_base_module
+
+SPEC CHECKSUMS:
+  rn_base_module: c459be3450aba254f59414f785d1aeab5c0f4f99
+
+PODFILE CHECKSUM: e5b094d453aa31def6fb18f1c1212321b25e3e5e
+
+COCOAPODS: 1.5.0
